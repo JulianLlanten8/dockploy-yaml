@@ -32,3 +32,10 @@ docker compose up -d
 ```bash
 http://localhost:3000
 ```
+
+
+>[!NOTE]
+>Este archivo está pensado para facilitar la ejecución de Dockploy en Mac.
+Para más información y documentación oficial, visita el proyecto principal:
+https://github.com/dokploy/dokploy
+
